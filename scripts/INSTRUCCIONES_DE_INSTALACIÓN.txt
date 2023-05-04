@@ -1,0 +1,10 @@
+INTRUCCIONES DE INSTALACIÓN
+
+Seguir el orden aquí establecido.
+
+
+Tener en cuenta:
+
+1) El primer archivo: '00-Diagrama_Entidad_Relacion.mwb', no es un '.sql' sino '.mwb' (MySQL Workbench), para visualización del DER.
+
+2) Primero se crean los disparadores ("02-Creacion_Disparadores") y después se insertan los datos (“03-Insercion_Datos”), esto es así porque permite probar los disparadores mientras se  insertan los datos.
